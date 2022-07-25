@@ -1,7 +1,7 @@
 
 ==============================================
 # PROJECT TOPIC : Stock Price and Apps & Tools 
-                     created by- Suman Purkait
+created by- Suman Purkait
 ==============================================
 # PROBLEM STATEMENT :
 1) Open the link of be.cognizant portal
