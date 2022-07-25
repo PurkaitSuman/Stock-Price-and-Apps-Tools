@@ -1,8 +1,6 @@
-
-==============================================
 # PROJECT TOPIC : Stock Price and Apps & Tools 
 created by- Suman Purkait
-==============================================
+
 # PROBLEM STATEMENT :
 1) Open the link of be.cognizant portal
 2) Log in with your credentials
@@ -10,15 +8,12 @@ created by- Suman Purkait
 4) Redirect to Office 356 Apps
 5) Print all the names of Apps/Tools and Stock Price(CTSH) along with the name of the account
 
-==============================================
-#TECHNOLOGY USED :
+# TECHNOLOGY USED :
 1)Java programming language
 2)Selenium
 3) Maven
 4)TestNG
 5)Extent Report
-
-================================================
 
 # PROJECT STRUCTURE :
 1) The project structure is followed by Maven.
@@ -26,9 +21,6 @@ created by- Suman Purkait
 3)Chrome driver has been installed to run the site.
 4)All the dependencies has been written in pom.xml.
 5)The test report is in report.html.
-
-
-==================================================================================
 
 # STEPS :
 
@@ -49,10 +41,6 @@ created by- Suman Purkait
 7)In the Report.html file the report has been shown of all test cases.
 
 8)We have printed the output in the console.
-
-===================================================================================================
-
-
 
 # OUTPUT:
 All the test cases are passed successfully and the result is displayed in the console as well as in Extent Report.
