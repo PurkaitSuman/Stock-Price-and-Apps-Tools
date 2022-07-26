@@ -1,4 +1,4 @@
-# PROJECT TOPIC : Stock Price and Apps & Tools 
+# PROJECT TOPIC : Automatation testing of Cognizant Stock Price and Apps & Tools 
 Created by- Suman Purkait
 
 # PROBLEM STATEMENT :
